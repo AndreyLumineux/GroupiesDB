@@ -1,67 +1,51 @@
 {
   "groups": [
     {
-      "id": 1,
       "title": "IT"
     },
     {
-      "id": 2,
       "title": "Economics"
     },
     {
-      "id": 3,
       "title": "Sports"
     },
     {
-      "id": 4,
       "title": "Gaming"
     },
     {
-      "id": 5,
       "title": "Make-up"
     },
     {
-      "id": 6,
       "title": "Make-up"
     },
     {
-      "id": 7,
       "title": "Food"
     },
     {
-      "id": 8,
       "title": "Travel"
     },
     {
-      "id": 9,
       "title": "Cars"
     },
     {
-      "id": 10,
       "title": "Fitness & nutrition"
     },
     {
-      "id": 11,
       "title": "Support Group"
     },
     {
-      "id": 12,
       "title": "Questionnaires"
     },
     {
-      "id": 13,
       "title": "Movies & Series"
     },
     {
-      "id": 14,
       "title": "Books"
     },
     {
-      "id": 15,
       "title": "Politics"
     },
     {
-      "id": 16,
       "title": "Sales"
     }
   ]
