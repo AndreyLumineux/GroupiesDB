@@ -1,52 +1,52 @@
 {
   "groups": [
     {
-      "title": "IT"
+      "groupName": "IT"
     },
     {
-      "title": "Economics"
+      "groupName": "Economics"
     },
     {
-      "title": "Sports"
+      "groupName": "Sports"
     },
     {
-      "title": "Gaming"
+      "groupName": "Gaming"
     },
     {
-      "title": "Make-up"
+      "groupName": "Make-up"
     },
     {
-      "title": "Make-up"
+      "groupName": "Make-up"
     },
     {
-      "title": "Food"
+      "groupName": "Food"
     },
     {
-      "title": "Travel"
+      "groupName": "Travel"
     },
     {
-      "title": "Cars"
+      "groupName": "Cars"
     },
     {
-      "title": "Fitness & nutrition"
+      "groupName": "Fitness & nutrition"
     },
     {
-      "title": "Support Group"
+      "groupName": "Support Group"
     },
     {
-      "title": "Questionnaires"
+      "groupName": "Questionnaires"
     },
     {
-      "title": "Movies & Series"
+      "groupName": "Movies & Series"
     },
     {
-      "title": "Books"
+      "groupName": "Books"
     },
     {
-      "title": "Politics"
+      "groupName": "Politics"
     },
     {
-      "title": "Sales"
+      "groupName": "Sales"
     }
   ]
 }
